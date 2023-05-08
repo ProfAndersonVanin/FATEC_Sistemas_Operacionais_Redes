@@ -7,3 +7,7 @@
 
 # Avaliação P2
 - Dia 03/06/2023 (Conteúdo a definir em aula)
+
+# Cronograma de Reposição de aulas
+- 25/03 ==> reposição em ....
+- 01/04 ==> reposição em ....
