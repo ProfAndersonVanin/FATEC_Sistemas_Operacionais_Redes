@@ -7,7 +7,16 @@
 - ...
 
 # Avaliação P2
-- Dia 03/06/2023 (Conteúdo a definir em aula)
+- Dia 03/06/2023
+## Conteúdos da Avaliação
+- Introdução a Sistemas Operacionais
+- Tipos de SOs
+- Registradores
+- Memória Cache
+- Memória Principal
+- Barramento
+- Endereçamento e Capacidade de Memória Principal
+- Gerência de Processos e Threads
 
 # Cronograma de Reposição de aulas
 - 25/03 ==> reposição em ....
